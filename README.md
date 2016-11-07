@@ -1,0 +1,2 @@
+# tripadvisor_scrapy
+tripadvisor_scrapy
